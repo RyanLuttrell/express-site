@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "project_name": "Random Quote Generator",
+            "description": "Practing basic JavaScript syntax and data structures by building a Random quote Generator, a program that displays a randomly selected quote each time the user clicks a button",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link":
+            "github_link":
+            "image_urls": 
+        },
+        {
+            "id": 2,
+            "project_name": "List Pagination and Filtering",
+            "description": "Displaying a long list of items on a web page, like a list of 200 movie titles or 400 products, can overwhelm a user with too much information at once. A common solution is to display a handful of items on one page and provide navigation to jump to a list of more items. In this project, I used JavaScript to divide a long list into a series of pages to improve the user experienc of the webpage",
+            "technologies":["HTML", "CSS", "JavaScript"],
+            "live_link":
+            "github_link":
+            "image_urls": 
+        },
+        {
+            "id": 3,
+            "project_name": "Interactive Form",
+            "description": "Created a form to collect information from users for a Full Stack Conference to nsure that it was engaging, interactive and easy to use",
+            "technologies":["HTML", "CSS", "JavaScript"],
+            "live_link":
+            "github_link":
+            "image_urls": 
+        },
+        {
+            "id": 4,
+            "project_name": "Game Show App",
+            "description": "Created a browser-based, word guessing game. Used JavaScript and object-oriented programming to select a random hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard",
+            "technologies": ["HTML", "CSS", "JavaScript", "OOP"],
+            "live_link":
+            "github_link":
+            "image_urls": 
+        },
+        {
+            "id": 5,
+            "project_name": "Public API Requests",
+            "description": "Leveraging the power of JavaScript I created an employee directory by communicating with a third-party API",
+            "technologies": ["HTML", "CSS", "JavaScript", "HTTP", "API"],
+            "live_link":
+            "github_link":
+            "image_urls": 
+        },
+    ]
+}
