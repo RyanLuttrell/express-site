@@ -5,45 +5,45 @@
             "project_name": "Random Quote Generator",
             "description": "Practing basic JavaScript syntax and data structures by building a Random quote Generator, a program that displays a randomly selected quote each time the user clicks a button",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link":
-            "github_link":
-            "image_urls": 
+            "live_link": "https://ryanluttrell.github.io/random-quote-generator/",
+            "github_link": "https://github.com/RyanLuttrell/random-quote-generator",
+            "image_urls": ["../images/quote1.png", "../images/quote2.png"]
         },
         {
             "id": 2,
             "project_name": "List Pagination and Filtering",
             "description": "Displaying a long list of items on a web page, like a list of 200 movie titles or 400 products, can overwhelm a user with too much information at once. A common solution is to display a handful of items on one page and provide navigation to jump to a list of more items. In this project, I used JavaScript to divide a long list into a series of pages to improve the user experienc of the webpage",
             "technologies":["HTML", "CSS", "JavaScript"],
-            "live_link":
-            "github_link":
-            "image_urls": 
+            "live_link": "https://ryanluttrell.github.io/Techdegree-Project-2/",
+            "github_link": "https://github.com/RyanLuttrell/Techdegree-Project-2",
+            "image_urls": ["../images/pages1.png", "../images/pages2.png"]
         },
         {
             "id": 3,
             "project_name": "Interactive Form",
             "description": "Created a form to collect information from users for a Full Stack Conference to nsure that it was engaging, interactive and easy to use",
             "technologies":["HTML", "CSS", "JavaScript"],
-            "live_link":
-            "github_link":
-            "image_urls": 
+            "live_link": "https://ryanluttrell.github.io/Interactive-Form-Creation/",
+            "github_link": "https://github.com/RyanLuttrell/Interactive-Form-Creation",
+            "image_urls": ["../images/form1.png", "../images/form2.png", "../images/form3.png", "../images/form4.png", "../images/form1.png"]
         },
         {
             "id": 4,
             "project_name": "Game Show App",
             "description": "Created a browser-based, word guessing game. Used JavaScript and object-oriented programming to select a random hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard",
             "technologies": ["HTML", "CSS", "JavaScript", "OOP"],
-            "live_link":
-            "github_link":
-            "image_urls": 
+            "live_link": "https://ryanluttrell.github.io/Game-Show-App/",
+            "github_link": "https://github.com/RyanLuttrell/Game-Show-App",
+            "image_urls": ["../images/phrase-square.jpg", "../images/phrase1.jpg", "../images/phrase2.jpg", "../images/phrase3.jpg"]
         },
         {
             "id": 5,
             "project_name": "Public API Requests",
             "description": "Leveraging the power of JavaScript I created an employee directory by communicating with a third-party API",
             "technologies": ["HTML", "CSS", "JavaScript", "HTTP", "API"],
-            "live_link":
-            "github_link":
-            "image_urls": 
-        },
+            "live_link": "https://ryanluttrell.github.io/Employee-Directory-Project/",
+            "github_link": "https://github.com/RyanLuttrell/Employee-Directory-Project",
+            "image_urls": ["../images/api1.png", "../images/api2.png", "../images/api3.png"]
+        }
     ]
 }
