@@ -7,7 +7,7 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://ryanluttrell.github.io/random-quote-generator/",
             "github_link": "https://github.com/RyanLuttrell/random-quote-generator",
-            "image_urls": ["../images/quote1.png", "../images/quote2.png"]
+            "image_urls": ["../../images/quote1.png", "../../images/quote2.png"]
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@
             "technologies":["HTML", "CSS", "JavaScript"],
             "live_link": "https://ryanluttrell.github.io/Techdegree-Project-2/",
             "github_link": "https://github.com/RyanLuttrell/Techdegree-Project-2",
-            "image_urls": ["../images/pages1.png", "../images/pages2.png"]
+            "image_urls": ["../../images/pages1.png", "../../images/pages2.png"]
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@
             "technologies":["HTML", "CSS", "JavaScript"],
             "live_link": "https://ryanluttrell.github.io/Interactive-Form-Creation/",
             "github_link": "https://github.com/RyanLuttrell/Interactive-Form-Creation",
-            "image_urls": ["../images/form1.png", "../images/form2.png", "../images/form3.png", "../images/form4.png", "../images/form1.png"]
+            "image_urls": ["../../images/form1.png", "../../images/form2.png", "../../images/form3.png", "../../images/form4.png", "../../images/form1.png"]
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@
             "technologies": ["HTML", "CSS", "JavaScript", "OOP"],
             "live_link": "https://ryanluttrell.github.io/Game-Show-App/",
             "github_link": "https://github.com/RyanLuttrell/Game-Show-App",
-            "image_urls": ["../images/phrase-square.jpg", "../images/phrase1.jpg", "../images/phrase2.jpg", "../images/phrase3.jpg"]
+            "image_urls": ["../../images/phrase-square.jpg", "../../images/phrase1.jpg", "../../images/phrase2.jpg", "../../images/phrase3.jpg"]
         },
         {
             "id": 5,
@@ -43,7 +43,7 @@
             "technologies": ["HTML", "CSS", "JavaScript", "HTTP", "API"],
             "live_link": "https://ryanluttrell.github.io/Employee-Directory-Project/",
             "github_link": "https://github.com/RyanLuttrell/Employee-Directory-Project",
-            "image_urls": ["../images/api1.png", "../images/api2.png", "../images/api3.png"]
+            "image_urls": ["../../images/api1.png", "../../images/api2.png", "../../images/api3.png"]
         }
     ]
 }
