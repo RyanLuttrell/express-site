@@ -1,6 +1,6 @@
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'poppins'
 }
 
   h5{
@@ -35,7 +35,7 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button:hover{
-  background-color: #111;
+  background-color: #000D55;
 }
 
 a{
@@ -52,13 +52,13 @@ a:hover{
   margin-bottom: 1rem;
   border: solid 4px #fefefe;
   border-radius: 0;
-  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  box-shadow: 0 1px 10px 0px black;
   line-height: 0;
 }
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #000D55;
   color: #fff;
   box-shadow: none !important;
 }
@@ -114,6 +114,7 @@ a:hover{
 
   .portfolio-index .thumbnail{
     margin-bottom: 5px;
+    box-shadow: 5px black;
   }
 
   .portfolio-index a{
